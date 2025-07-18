@@ -7,7 +7,7 @@ Este documento lista os domínios potenciais para as plataformas de e-commerce d
 - **Taxa de Câmbio**: R$ 5,50/USD.
 - **Registradores**:
   - **.com.br**: Registro.br (R$ 40/ano,).
-  - **.com.py**: Estimativa ($30/ano).
+  - **.com.py**: Nic.py ($30/ano).
   - **.com, .shop, .site**: Namecheap ($15, $30, $25/ano, respectivamente,,).
   - **.lat**: GoDaddy ($28/ano,).
 - **WHOIS Privacy**: $15/ano para .com.py, .com, .shop, .site, .lat (Namecheap,); não aplicável para .com.br (Registro.br,).
